@@ -2,7 +2,7 @@
 
 This repository contains a detailed **Road Accident Analysis** dashboard built in Power BI. The dashboard presents a comprehensive, interactive view of road accident data, allowing stakeholders to quickly identify trends, spot risk factors, and make data-driven decisions for road safety improvements.
 
-![Road Accident Analysis Dashboard](image1)
+![Road Accident Analysis Dashboard](https://github.com/nar-en57/Road-Accident-Analysis-Dashboard/blob/main/Road%20Accident%20Dashboard.png)
 
 ---
 
