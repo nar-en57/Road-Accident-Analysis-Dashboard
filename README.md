@@ -69,7 +69,16 @@ This repository contains a detailed **Road Accident Analysis** dashboard built i
 - [Power BI Desktop](https://powerbi.microsoft.com/)
 - Road accident data 
 
----
+## 📌 Tools Used
+- Microsoft Power BI
+- Excel (for dataset)
+- Power Query
+- DAX (Data Analysis Expressions)
+
+## Contact
+
+For any questions or feedback, please reach out to [nar-en57](https://github.com/nar-en57).
 
 ## License
 
+© 2025 Naren Jamdar. All rights reserved.
