@@ -67,14 +67,9 @@ This repository contains a detailed **Road Accident Analysis** dashboard built i
 ## Requirements
 
 - [Power BI Desktop](https://powerbi.microsoft.com/)
-- Road accident data (not included in this repo)
+- Road accident data 
 
 ---
 
 ## License
 
-This project is for demonstration and analysis purposes only. Visualizations are based on public or simulated data.
-
----
-
-> For questions or contributions, please submit an issue or pull request.
